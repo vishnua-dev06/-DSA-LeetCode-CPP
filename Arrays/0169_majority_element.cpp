@@ -43,3 +43,7 @@ public:
         return ans;
     }
 };
+
+/*📅 Solved on: June 6, 2026
+🏷️ Topics: Array, Hashing, Boyer-Moore Voting Algorithm
+⭐ Difficulty: Easy*/
